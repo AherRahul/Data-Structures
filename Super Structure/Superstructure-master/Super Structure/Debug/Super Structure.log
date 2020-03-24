@@ -1,0 +1,3 @@
+﻿  Super Structure.cpp
+  C:\Users\User\source\repos\Super Structure\Super Structure\SuperStructure.h(311) : warning C4715: 'Superstructure::add': not all control paths return a value
+  Super Structure.vcxproj -> C:\Users\User\source\repos\Super Structure\Debug\Super Structure.exe
